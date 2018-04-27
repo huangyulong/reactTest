@@ -11,3 +11,6 @@ export default function changeGreen(){
 export default function changeYellow(){
     return { type:lights.CHANGE_YELLOW }
 }
+export default function changeYe(){
+    return { type:lights.CHANGE_YE }
+}
